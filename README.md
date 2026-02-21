@@ -20,7 +20,7 @@
   <a href="https://github.com/SilentByte-111" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SilentByte-111" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/ynxio230625" target="blank">
+  <a href="https://x.com/ynxio230625" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ynxio230625" height="30" width="40" />
   </a>
   <a href="https://youtube.com/韵肖" target="blank">
