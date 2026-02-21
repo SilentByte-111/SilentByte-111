@@ -7,6 +7,9 @@
   </a> 
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilentByte-111)
+
+
 ✨ Currently building amazing tools for the Linux ecosystem.
 
 - 🔭 I'm currently working on **linux-tool**
@@ -40,7 +43,4 @@
   <img src="https://skillicons.dev/icons?i=mysql,gcp,aws" alt="Databases & Cloud" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentByte-111&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SilentByte-111&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
