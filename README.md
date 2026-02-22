@@ -1,5 +1,6 @@
 # Hi 👋, I'm SilentByte  
 ### A passionate Shell developer  
+[![访客IP信息卡片](https://my.ippure.com/v1/card)](https://ippure.com "点击查看IP信息")
 
 <p align="left"> 
   <a href="https://twitter.com/ynxio230625" target="blank">
