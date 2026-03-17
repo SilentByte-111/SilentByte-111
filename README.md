@@ -1,45 +1,31 @@
-# Hi 👋, I'm SilentByte  
-### A passionate Shell developer  
-[![访客IP信息卡片](https://my.ippure.com/v1/card)](https://ippure.com "点击查看IP信息")
+  # hi, i'm xynrin
 
-<p align="left"> 
-  <a href="https://twitter.com/ynxio230625" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ynxio230625?logo=twitter&style=for-the-badge" alt="ynxio230625" />
-  </a> 
-</p>
+  i'm not an expert yet, but i'm learning fast and building along the way.
 
+  currently interested in:
 
-✨ Currently building amazing tools for the Linux ecosystem.
+  - linux
+  - shell scripting
+  - desktop customization
+  - automation
+  - beginner-friendly technical explanations
 
-- 🔭 I'm currently working on **linux-tool**
-- 🌱 I'm currently learning **shell、Linux、Python、English、Japanese**
-- 💬 Ask me about **Linux**
-- 📫 How to reach me: **silentbyte@qq.com**
-- 📝 I regularly write articles on **[https://silentbyte.xyz](https://silentbyte.xyz)**
+  i enjoy understanding how things connect:
+  from status bars and terminal workflows to scripts, configs, and window managers.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/SilentByte-111" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SilentByte-111" height="30" width="40" />
-  </a>
-  <a href="https://x.com/ynxio230625" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ynxio230625" height="30" width="40" />
-  </a>
-  <a href="https://youtube.com/韵肖" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="韵肖" height="30" width="40" />
-  </a>
-</p>
+  ## learning now
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <strong>Languages:</strong> 
-  <img src="https://skillicons.dev/icons?i=python,c,go" alt="Languages" />
-  
-  <strong>Tools & Frameworks:</strong> 
-  <img src="https://skillicons.dev/icons?i=docker,git,nginx,nodejs" alt="Tools" />
-  
-  <strong>Databases & Cloud:</strong> 
-  <img src="https://skillicons.dev/icons?i=mysql,gcp,aws" alt="Databases & Cloud" />
-</p>
+  - shell
+  - linux internals
+  - python
+  - english
+  - japanese
+  - go
+  - c/c++
+  - os
+  - aigc
+  - llm
 
+  ## contact
 
+  - github: [xynrin](https://github.com/Xynrin)
