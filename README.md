@@ -1,35 +1,64 @@
-  # hi, i'm xynrin
+<h1 align="center">Hi, I'm xynrin 👋</h1>
 
-  i'm not an expert yet, but i'm learning fast and building along the way.
+<p align="center">
+  <i>not an expert yet, but learning fast and building along the way.</i>
+</p>
 
-  currently interested in:
+<p align="center">
+  <a href="https://github.com/Xynrin">
+    <img src="https://img.shields.io/badge/GitHub-xynrin-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/gUb5Mnbs">
+    <img src="https://img.shields.io/badge/Discord-xynrin-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-  - linux
-  - shell scripting
-  - desktop customization
-  - automation
-  - beginner-friendly technical explanations
+---
 
-  i enjoy understanding how things connect
+## about me
 
-  ## learning now
+I'm still at the beginning of my journey,  
+but I love learning by building, breaking, fixing, and connecting ideas together.
 
-  - shell
-  - linux internals
-  - python
-  - english
-  - japanese
-  - go
-  - c/c++
-  - os
-  - aigc
-  - llm
+I enjoy understanding **how things work underneath**, especially how systems, tools, and automation connect with each other.
 
-  ## contact
+### currently interested in
 
-  - github: [xynrin](https://github.com/Xynrin)
-  - discord: [xynrin](https://discord.gg/gUb5Mnbs)
-  - blog:
-  - bbs:
+- Linux
+- Shell scripting
+- Desktop customization
+- Automation
+- Beginner-friendly technical explanations
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xynrin&theme=github-compact&hide_border=true&area=true" />
+---
+
+## learning now
+
+<p>
+  <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux%20Internals-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Japanese-e34c26?style=flat-square" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-444?style=flat-square" />
+  <img src="https://img.shields.io/badge/AIGC-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-ff69b4?style=flat-square" />
+</p>
+
+---
+
+## mindset
+
+```txt
+learn -> build -> break -> fix -> understand -> repeat
+```
+
+
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xynrin&show_icons=true&theme=transparent&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynrin&layout=compact&theme=transparent&hide_border=true" /> </p>
+
+<p align="center"> <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xynrin&theme=github-compact&hide_border=true&area=true" /> </p>
+
+<p align="center"> <i>still learning, still building, still becoming better.</i> </p>
