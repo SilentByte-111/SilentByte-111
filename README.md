@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm xynrin 👋</h1>
-
 <p align="center">
-  <i>not an expert yet, but learning fast and building along the way.</i>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&text=The%20tip%20of%20the%20iceberg%20that%20you%20see%20is%20the%20seed&fontAlign=50&fontAlignY=55&fontSize=22&desc=&animation=fadeIn"
+    alt="The tip of the iceberg that you see is the seed"
+  />
 </p>
 
 <p align="center">
