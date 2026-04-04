@@ -62,7 +62,7 @@ Tap the picture to jump
 [![png](https://github.com/Xynrin/video-text-url-image/blob/main/5304e17c-8b7f-443b-a64f-c39819d8f231.png?raw=true)](https://xynrin.github.io/)
 
 ## my github warehouse
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xynrin&show_icons=true&theme=transparent&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xynrin&layout=compact&theme=transparent&hide_border=true" /> </p>
+
 
 <p align="center"> <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xynrin&theme=github-compact&hide_border=true&area=true" /> </p>
 
