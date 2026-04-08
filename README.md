@@ -15,51 +15,9 @@
   </a>
 </p>
 
----
-
-## about me
-
-I'm still at the beginning of my journey,  
-but I love learning by building, breaking, fixing, and connecting ideas together.
-
-I enjoy understanding **how things work underneath**, especially how systems, tools, and automation connect with each other.
-
-### currently interested in
-
-- Linux
-- Shell scripting
-- Desktop customization
-- Automation
-- Beginner-friendly technical explanations
-
----
-
-## learning now
-
-<p>
-  <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux%20Internals-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Japanese-e34c26?style=flat-square" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-444?style=flat-square" />
-  <img src="https://img.shields.io/badge/AIGC-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-ff69b4?style=flat-square" />
-</p>
-
----
-
-## mindset
-
-```txt
-learn -> build -> break -> fix -> understand -> repeat
-```
-## my blog
-Tap the picture to jump
-[![png](https://github.com/Xynrin/video-text-url-image/blob/main/5304e17c-8b7f-443b-a64f-c39819d8f231.png?raw=true)](https://xynrin.github.io/)
+----
+## my program
+- [linux-tool](https://github.com/Xynrin/linux-tool)
 
 ## my github warehouse
 
