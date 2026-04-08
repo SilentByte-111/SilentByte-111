@@ -19,9 +19,7 @@
 ## my program
 - [linux-tool](https://github.com/Xynrin/linux-tool)
 
-## my github warehouse
 
 
 <p align="center"> <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xynrin&theme=github-compact&hide_border=true&area=true" /> </p>
 
-<p align="center"> <i>still learning, still building, still becoming better.</i> </p>
