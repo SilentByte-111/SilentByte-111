@@ -5,13 +5,11 @@
     alt="The tip of the iceberg that you see is the seed"
   />
 </p>
-
 <p align="center">
   <a href="mailto:xynrin@163.com">
     <img src="https://img.shields.io/badge/Email-xynrin@163.com-blue?style=for-the-badge" />
   </a>
-
- href="https://discord.gg/gUb5Mnbs">
+  <a href="https://discord.gg/gUb5Mnbs">
     <img src="https://img.shields.io/badge/Discord-xynrin-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
