@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Xynrin">
-    <img src="https://img.shields.io/badge/GitHub-xynrin-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-xynrin?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://discord.gg/gUb5Mnbs">
     <img src="https://img.shields.io/badge/Discord-xynrin-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -16,10 +16,16 @@
 </p>
 
 ----
-## my program
-- [![linuxtool](https://github.com/Xynrin/linux-tool/blob/main/assets%2Flogo.jpg)](https://github.com/Xynrin/linux-tool)
+## My program
+ <p align="center">
+  <a href="https://github.com/Xynrin/linux-tool">
+    <img src="https://raw.githubusercontent.com/Xynrin/linux-tool/main/assets/logo.jpg" alt="linuxtool" height="120">
+  </a>
+</p>
 
+## My GitHub Contribution Graph
 
-
-<p align="center"> <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xynrin&theme=github-compact&hide_border=true&area=true" /> </p>
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xynrin&theme=github-compact&hide_border=true&area=true" />
+</p>
 
