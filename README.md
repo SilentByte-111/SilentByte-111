@@ -16,12 +16,24 @@
 
 ----
 ## My program
- <p align="center">
+
+<p align="center">
   <a href="https://github.com/Xynrin/linux-tool">
-    <img src="https://raw.githubusercontent.com/Xynrin/linux-tool/main/assets/logo.jpg" alt="linuxtool" height="120">
+    <img
+      src="https://raw.githubusercontent.com/Xynrin/linux-tool/main/assets/logo.jpg"
+      alt="linux-tool"
+      height="110"
+    >
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Xynrin/Mo-blog-project">
+    <img
+      src="https://github.com/user-attachments/assets/4eaf7b9d-c433-4d44-a0ab-d02f430d6632"
+      alt="Mo-blog-project"
+      height="110"
+    >
   </a>
 </p>
-
 ## My GitHub Contribution Graph
 
 <p align="center">
