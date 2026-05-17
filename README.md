@@ -5,8 +5,16 @@
     <img src="https://img.shields.io/badge/Email-xynrin@163.com-blue?style=for-the-badge" />
   </a>
 </p>
+<a href="https://linux.do/u/silentbyte" target="_blank">
+  <img 
+    width="1659"
+    height="948"
+    alt="图片"
+    src="https://github.com/user-attachments/assets/f2ebd9f7-56fc-415a-81e3-ddb0584c26d0"
+    style="cursor:pointer;"
+  />
+</a>
 
-<img width="1774" height="887" alt="a_wide_minimalist_elegant_landscape_graphic_post" src="https://github.com/user-attachments/assets/c75c8a02-073e-4d84-a714-5d8f6fe84ba6" />
 
 ----
 
